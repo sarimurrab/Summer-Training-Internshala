@@ -14,7 +14,7 @@ Learn about data distribution, probability, data statistics and types of testing
 
 Learn about predictive models & their stages, data extraction & exploration, univariate & bivariate analysis, model building, and linear regression.
 
-#  PROJECT
+#  FINAL PROJECT
 # Problem Statement
 Your client is a retail banking institution. Term deposits are a major source
 of income for a bank.
